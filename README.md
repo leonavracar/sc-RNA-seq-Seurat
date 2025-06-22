@@ -1,6 +1,6 @@
 # Single-cell RNA-seq Clustering 
 
-This project is a full single-cell RNA-seq (scRNA-seq) analysis workflow in R using the Seurat package. The input dataset, E-MTAB-10596, was downloaded from the Single Cell Expression Atlas and contains filtered count matrices in Matrix Market format.
+This project is a single-cell RNA-seq (scRNA-seq) analysis workflow in R using the Seurat package. The input dataset, E-MTAB-10596, was downloaded from the Single Cell Expression Atlas and contains filtered count matrices in Matrix Market format.
 
 ### Workflow Steps
 
