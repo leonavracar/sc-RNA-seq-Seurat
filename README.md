@@ -54,7 +54,6 @@ The final UMAP shows **7 distinct clusters** of cells (0–6), colored and label
 |---------------------------|---------------------------------------------------------------------------------------------------|
 | `scRNAseq_workflow.R`     | R script containing the full Seurat analysis pipeline                                             |
 | `umap.jpeg`               | UMAP plot showing the final clustering result                                                     |
-| `Seurat_Vracar_1.rds`     | Saved Seurat object containing the processed dataset                                              |
 | `Raw_files/E-MTAB-10596.*`| Input count matrix files downloaded from the Single Cell Expression Atlas (Matrix Market format)  |
 
 
