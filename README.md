@@ -35,7 +35,7 @@ This project is a full single-cell RNA-seq (scRNA-seq) analysis workflow in R us
 
 The final UMAP shows **7 distinct clusters** of cells (0–6), colored and labeled. Clustering was based on expression patterns across variable genes. The structure suggests biologically meaningful subpopulations (different cell types or states).
 
-![UMAP](./Umap_Vracar_1.jpeg)
+![UMAP](./umap.jpeg)
 
 ## Interpretation
 
